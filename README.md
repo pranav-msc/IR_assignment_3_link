@@ -1,3 +1,3 @@
 # IR_assignment_3_link
 
-## Printing IIITM is a function is at last cell 
+## Printing IIITM is done on last cell 
